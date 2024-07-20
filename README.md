@@ -1,4 +1,3 @@
 # github-demo
-This is my first repogataries
-<br>
+This is my first repogataries.
 Author - Vikas Gupta
